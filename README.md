@@ -91,7 +91,7 @@
   <a href="https://github.com/faiz9994">
     <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" />
   </a>
- <a href="www.linkedin.com/in/mohammad-faiz-097786288" target="_blank">
+ <a href="https://www.linkedin.com/in/mohammad-faiz-097786288/" target="_blank" rel="noreferrer">
   <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
 </a>
   <a href="https://instagram.com/faiiz.md">

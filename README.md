@@ -32,59 +32,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=faiz9994&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiz9994&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=faiz9994&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=faiz9994&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faiz9994&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=faiz9994&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" width="100%" alt="GitHub Trophies" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<!-- Replace the placeholders below with your actual repository links and project descriptions. -->
-
-<!--
-<p align="center">
-  <a href="https://github.com/faiz9994/REPOSITORY_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=faiz9994&repo=REPOSITORY_1&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/faiz9994/REPOSITORY_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=faiz9994&repo=REPOSITORY_2&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
--->
-
-<p align="center">
-  <a href="https://github.com/faiz9994?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-7AA2F7?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories" />
-  </a>
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">

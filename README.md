@@ -27,7 +27,7 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,react,redux,nextjs,tailwind,nodejs,express,mongodb,mysql,postgres,redis,graphql,aws,docker,kubernetes,jenkins,nginx,linux,git,github,postman&perline=9" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,react,redux,nextjs,tailwind,nodejs,express,mongodb,mysql,postgres,redis,graphql,aws,docker,kubernetes,nginx,linux,git,github,postman&perline=9" alt="Tech Stack" />
 </p>
 
 ---
